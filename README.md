@@ -11,7 +11,7 @@ log_mm = LogNormalMM()
 log_mm.fit_predict(data)
 ```
 
-For more detailed examples and illustrations, please refer to the _TestingLogNormal.ipynb_ notebook file
+For more detailed examples and illustrations, please refer to the _TestingLog_Normal.ipynb_ notebook file
 
 ## Prerequisite
 
